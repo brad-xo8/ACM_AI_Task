@@ -24,3 +24,4 @@ target: It is the target variable which we have to predict 1 means patient is su
 
 This models predicts the Absence(0) or Presence(1) of the heart disease
 
+ 
